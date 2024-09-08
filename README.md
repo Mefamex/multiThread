@@ -62,6 +62,7 @@ Bu kütüphane açık kaynaklıdır ve [lisans türü] lisansı altında dağıt
 # Daha Fazla Bilgi:
 
 * [Projenin GitHub adresi](https://github.com/Mefamex/multiThread.git)
+* [Yazar -> Mefamex](https://github.com/Mefamex)
 * [Web sitesi](https:mefamex.com)
 
 # Ek Özellikler (İsteğe Bağlı):
